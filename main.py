@@ -1,5 +1,7 @@
 import random 
 
+print("black jack)
+      
 a = 1
 j = 11
 q = 12
