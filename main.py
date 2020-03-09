@@ -1,6 +1,8 @@
 import random 
 
 print("black jack)
+     
+print("test 09-03-20")
       
 a = 1
 j = 11
